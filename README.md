@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Kalinin / @erxonn
-- 👀 I’m interested in Data Analysis and spatial data visualization
-- 🌱 I’m currently learning gis tools
+- 👀 I’m interested in exploratory data analysis and spatial data visualization
+- 🌱 I’m currently learning BI services
 - 📫 How to reach me: https://t.me/erxone
 
 <!---
